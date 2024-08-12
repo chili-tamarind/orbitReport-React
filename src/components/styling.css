@@ -58,3 +58,21 @@ h1 {
   color: white;
   font-size: 60px;
 }
+
+.allOrbit {
+  background-color: #5c94ce;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.selectSatOrbit {
+  background-color: #b4cddc;
+}
+
